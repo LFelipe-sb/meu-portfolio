@@ -11,7 +11,7 @@ function Index() {
           <li>Sobre</li>
           <li>Atividades</li>
           <li>Hobbies</li>
-          <li>Contatos</li>
+          <li>Contato</li>
         </ul>
       </nav>
     </header>
